@@ -1,5 +1,4 @@
 package Project2;
-import javax.swing.*;
 public class dice {
     public static void main(String[] args) {
         int dice;
